@@ -1,4 +1,4 @@
-## Project: Statistical analysis on educationrate v/s crimerate
+## Project: Statistical analysis on Literacy Rate v/s Crime Rate
 
 #### Data_1 Source: https://data.gov.in/resource/district-wise-crimes-committed-against-women-during-2001-2012
 
